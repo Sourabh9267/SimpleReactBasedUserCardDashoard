@@ -21,8 +21,8 @@ Follow these instructions to clone the project and run it locally on your machin
 - Node.js and npm must be installed on your machine. If not, download and install them from [here](https://nodejs.org/).
 - 
 ### Instructions
-1. **Clone the Repository** Clone the repository using the following command: ```bash git clone https://github.com/your-username/react-user-card-dashboard.git ```
-2. **Navigate to the Project Directory** ```bash cd react-user-card-dashboard ```
+1. **Clone the Repository** Clone the repository using the following command: ```bash git clone [https://github.com/your-username/react-user-card-dashboard.git](https://github.com/Sourabh9267/SimpleReactBasedUserCardDashoard.git) ```
+2. **Navigate to the Project Directory** ```bash cd SimpleReactBasedUserCardDashoard ```
 3. **Install Dependencies** Use npm to install the required packages: ```bash npm install ```
 4. **Run the Application** Start the development server: ```bash npm start ``` The application will automatically open in your default browser. If not, open `http://localhost:3000` in your browser.
 
